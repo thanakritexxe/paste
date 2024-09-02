@@ -1,4 +1,1 @@
-local class = {
-    Template = 123;
-    Image = 456;
-}
+[Template=123,Image=456]
